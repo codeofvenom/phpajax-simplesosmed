@@ -3,6 +3,7 @@
 .gitignore text
 *.md text
 *.js linguist-language=PHP
+*.hack linguist-language=PHP
 *.php linguist-detectable=true
 *.js linguist-detectable=false
 *.html linguist-detectable=false
